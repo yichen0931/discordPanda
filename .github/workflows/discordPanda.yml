@@ -13,7 +13,8 @@ jobs:
             # A Discord webhook URL
             webhookUrl: https://discordapp.com/api/webhooks/1316956354786885673/TnLUfOQiSbcjinGjEXP44tQwVosbe8HGv_gviHMyIZYWbWlr4rcTYRDpNk24h2DO7pa5
             # A message to send to Discord
-            message: "helloo happy friyay!!"
+            message: "helloo happy friyay!! this is yichen :D"
+            
             
       
     
